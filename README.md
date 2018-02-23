@@ -1,4 +1,4 @@
-# Pet Shop Tutorial  http://truffleframework.com/tutorials/pet-shop
+# Pet Shop Tutorial 
 1.Setting up the development environment </br>
 2.Creating a Truffle project using a Truffle Box </br>
 3.Writing the smart contract </br>
@@ -6,3 +6,5 @@
 5.Testing the smart contract </br>
 6.Creating a user interface to interact with the smart contract </br>
 7.Interacting with the dapp in a browser</br>
+
+Tutorial can be found [here](http://truffleframework.com/tutorials/pet-shop)
